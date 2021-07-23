@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Ritik Srivastav
-- 👀 I’m interested in Coding, Music Production etc.
-- 🌱 I’m currently learning Programming
+- 👀 Interested in Coding, Music Production etc.
+- 🌱  Full Stack Developer
 - 📫 Email :- ritiksrivastav13092002@gmail.com
 - 📫 Phone :- 9956457096
-- ♨  My Website :- www.SolveYourDay.com
+- ♨  Website :- www.SolveYourDay.com
 
 <!---
 ritiksri/ritiksri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
